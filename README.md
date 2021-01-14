@@ -22,7 +22,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalk844" alt="kaushalk844" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaushalk844" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushalk844" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kaushalk844" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kaushalk844" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
 <a href="https://www.topcoder.com/members/kaushalk844" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="kaushalk844" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <img src="https://img.icons8.com/color/480/000000/c-programming.png" alt ="C" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png" alt ="C++" width ="50" height ="50"/>
