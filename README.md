@@ -23,7 +23,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalk844" alt="kaushalk844" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/kaushalk844" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kaushalk844" height="30" width="40" /></a>
 <a href="https://codesandbox.com/kaushalk844" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kaushalk844" height="30" width="40" /></a>
 <a href="https://fb.com/kaushal159357" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kaushal159357" height="30" width="40" /></a>
