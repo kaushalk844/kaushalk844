@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kaushal Rajput</h1>
-<h3 align="center">A passionate frontend developer from Ranchi (India)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalk844" alt="kaushalk844" /></a> </p>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300px" border-radius="50px" />
+
+<h3 align="left">A passionate frontend developer from Ranchi (India)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
 
 - 🔭 I’m currently working on [Hulu Clone](https://github.com/kaushalk844/Hulu-Clone)
 
@@ -16,6 +19,8 @@
 - 📫 How to reach me **Kaushalk844@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kaushalk844/](https://www.linkedin.com/in/kaushalk844/)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalk844" alt="kaushalk844" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
