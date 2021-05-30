@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
 
-- 🔭 I’m currently working on [Hulu Clone](https://github.com/kaushalk844/Hulu-Clone)
+- 🔭 I’m currently working on [Python](https://github.com/kaushalk844/Pyton-for-Data-Analysis)
 
-- 🌱 I’m currently learning **React, ML, Data Science.**
+- 🌱 I’m currently learning **Python, ML, Data Analysis.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaushalk844](https://github.com/kaushalk844)
 
