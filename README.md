@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="300px" border-radius="50px" />
 
-<h3 align="left">A passionate frontend developer from Ranchi (India)</h3>
+<h3 align="left">A passionate Frontend developer & Data Analyst from Ranchi (India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
 
