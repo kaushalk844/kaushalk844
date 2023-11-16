@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnilsparsh&label=Profile+Views" alt="swapnilsparsh" /> </p>
 
-- 🔭 I’m currently working on [Python](https://github.com/kaushalk844/Pyton-for-Data-Analysis)
+- 🔭 I’m currently working on [Tableau and SQL](https://github.com/kaushalk844/Pyton-for-Data-Analysis)
 
 - 🌱 I’m currently learning **Python, ML, Data Analysis.**
 
